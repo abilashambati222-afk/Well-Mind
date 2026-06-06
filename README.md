@@ -1,6 +1,6 @@
-# WellMind - AI-Powered Mental Wellness Platform
+# Well-Mind - AI-Powered Mental Wellness Platform
 
-WellMind is a modern, premium, glassmorphism-designed mental wellness and mindfulness web portal. It leverages AI assistance and interactive features to help users manage stress, improve sleep, and combat anxiety.
+Well-Mind is a modern, premium, glassmorphism-designed mental wellness and mindfulness web portal. It leverages AI assistance and interactive features to help users manage stress, improve sleep, and combat anxiety.
 
 ---
 
